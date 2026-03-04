@@ -1,7 +1,9 @@
 # Unstable Music 
 This resource pack adds popular Unstable Universe music to the game!
+>[!TIP]
+>I suggest you to use [Simple Music Control](https://modrinth.com/mod/simple-music-control) mod with this resource pack!
 
-### Song List
+## Song List
 - AZALI - Battle Under A Broken Sky
 - AZALI - Chaos Construct
 - Jon Presstone - Extrastellar
@@ -14,4 +16,4 @@ This resource pack adds popular Unstable Universe music to the game!
 
 If you want me to add a track you want, make an issue in my github repo!
 
-**NOTE: I don't own any of the music in this pack.**
+### **NOTE: I don't own any of the music in this pack.**
