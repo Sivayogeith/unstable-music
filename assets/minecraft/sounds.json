@@ -1,0 +1,57 @@
+{
+    "music.game": {
+	    "category": "music",
+	    "sounds": [
+		    {
+			    "name": "azali_battle-under-broken-sky",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "azali_chaos-construct",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "azali_playful-massacre",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "nombra101_flamefrags-2nd-theme",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "nombra101_flamefrags-theme",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "nombra101_scorched-earth-symphony",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "nourosts_its-fraggin-time",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "nourosts_last-chance",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "kyon_sorcery-ring",
+			    "stream": true,
+                "volume": 0.4
+		    },
+		    {
+			    "name": "jon-presstone_extrastellar",
+			    "stream": true,
+                "volume": 0.4
+		    }
+	    ]
+    }
+}
