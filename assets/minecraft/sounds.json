@@ -5,52 +5,72 @@
 		    {
 			    "name": "azali_battle-under-broken-sky",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "azali_chaos-construct",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "azali_playful-massacre",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "nombra101_flamefrags-2nd-theme",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "nombra101_flamefrags-theme",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "nombra101_scorched-earth-symphony",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "nourosts_its-fraggin-time",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "nourosts_last-chance",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "kyon_sorcery-ring",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    },
 		    {
 			    "name": "jon-presstone_extrastellar",
 			    "stream": true,
-                "volume": 0.4
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
 		    }
 	    ]
     }

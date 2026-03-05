@@ -1,5 +1,5 @@
 # Unstable Music 
-This resource pack adds popular Unstable Universe music to the game!
+This resource pack adds (AND REMOVES DEFAULT MINECRAFT MUSIC) popular Unstable Universe music to the game!
 >[!TIP]
 >I suggest you to use [Simple Music Control](https://modrinth.com/mod/simple-music-control) mod with this resource pack!
 
