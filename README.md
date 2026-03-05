@@ -11,8 +11,10 @@ This resource pack adds (AND REMOVES DEFAULT MINECRAFT MUSIC) popular Unstable U
 - Nombra101 - FlameFrags' 2nd Official Theme
 - Nombra101 - FlameFrags' Official Theme
 - Nombra101 - Scorched Earth Symphony
+- Nombra101 - Oblivionfire
 - NourOSTs - It's Fraggin Time
 - NourOSTs - Last Chance
+- José Barrios - They Run (Theo's Theme)
 
 If you want me to add a track you want, make an issue in my github repo!
 

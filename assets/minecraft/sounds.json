@@ -45,6 +45,13 @@
 				"weight": 6900
 		    },
 		    {
+			    "name": "nombra101_oblivionfire",
+			    "stream": true,
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
+		    },
+		    {
 			    "name": "nourosts_its-fraggin-time",
 			    "stream": true,
                 "volume": 0.4,
@@ -67,6 +74,13 @@
 		    },
 		    {
 			    "name": "jon-presstone_extrastellar",
+			    "stream": true,
+                "volume": 0.4,
+				"replace": true,
+				"weight": 6900
+		    },
+		    {
+			    "name": "josebarrios_they-run",
 			    "stream": true,
                 "volume": 0.4,
 				"replace": true,
